@@ -23,6 +23,7 @@
   "homepage": "https://github.com/Calerme/koa_notes#readme",
   "dependencies": {
     "koa": "^2.5.0",
+    "koa-bodyparser": "^4.2.0",
     "koa-router": "^7.4.0"
   }
 }
